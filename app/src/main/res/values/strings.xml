@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySharedPreference</string>
+    <string name="txtCabecera">Ejemplo Shared Preferences</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnLogin">Login</string>
+    <string name="checkGuardar">Guardar Datos</string>
+    <string name="password">Contraseña</string>
+
+    <string name="borrar">Borrar Datos</string>
+    <string name="psw">Contraseña</string>
+    <string name="sesionIniciada">Sesión Iniciada</string>
+
+
+
+</resources>
